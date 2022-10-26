@@ -51,10 +51,10 @@ If you would like to contribute a translation, please submit a PR. Note though, 
 While there are various versions of DVWA around, the only supported version is the latest source from the official GitHub repository. You can either clone it from the repo:
 
 ```
-git clone https://github.com/digininja/DVWA.git
+git clone https://github.com/Kiprotich78/DVWA
 ```
 
-Or [download a ZIP of the files](https://github.com/digininja/DVWA/archive/master.zip).
+Or [download a ZIP of the files](https://github.com/Kiprotich78/DVWA/archive/master.zip).
 
 - - -
 
